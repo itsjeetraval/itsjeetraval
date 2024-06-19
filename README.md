@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsjeetraval
+- 👋 Hi, I’m Jeet Raval
 - 👀 I’m interested in Web Development
 - 📫 jeet.raval303@gmail.com
 - 🌱 I’m currently learning ...
